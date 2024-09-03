@@ -1,0 +1,116 @@
+*{margin: 0px;}
+.caja1
+{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    position: relative;
+    top: 166px;
+    left: 100px;
+    border-radius: 4cm;
+
+}
+.hijocaja1
+{
+    background-color: yellow;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    border-radius: 2cm; 
+}
+.bebecaja1
+{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    border-radius: 2cm;
+
+}
+.hijacaja1
+{
+    background-color: yellow;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 50px;
+    left: 130px;
+    border-radius: 2cm; 
+}
+.bebacaja1
+{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    border-radius: 1cm;
+
+}
+.labio
+{
+    background-color: aquamarine;
+    width: 125px;
+    height: 100px;
+    position: absolute;
+    top: 130px;
+    left: 65px;
+    border-radius: 5cm;
+}
+.boca
+{
+    background-color: black;
+    width: 80px;
+    height: 25px;
+    position: absolute;
+    top: 50px;
+    left: 25px;
+    border-radius: 1cm;
+}
+.caja2
+{
+    background-color: blueviolet;
+    width: 350px;
+    height: 50px;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    border-radius: 10cm;
+}
+.caja3
+{
+    background-color: blueviolet;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+}
+.corbata
+{
+    background-color: green;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 220px;
+    left: 10px;
+    border-radius: 5cm;
+
+}
+.bola1
+{
+    background-color: green;
+    width: 50px;
+    height: 80px;
+    position: absolute;
+    top: -15px;
+    left: 50px;
+    border-radius: 1cm;
+}
+
+
